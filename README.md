@@ -1,2 +1,16 @@
-# CovidGlobalInsights
-This repository contains a Flutter app that fetches real-time global COVID-19 data using an API. The app provides comprehensive insights into total cases, recoveries, and deaths worldwide. It features a clean and intuitive user interface for easy data visualization and exploration.  Feel free to modify it !
+# escobar
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
