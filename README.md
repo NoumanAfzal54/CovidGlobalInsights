@@ -1,4 +1,4 @@
-# Covid-19 Tracker
+# CovidGlobalInsights
 
 A new Flutter project.
 
